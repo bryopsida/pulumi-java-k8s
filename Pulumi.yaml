@@ -1,0 +1,7 @@
+name: pulumi-java-k8s
+runtime: java
+description: A minimal Kubernetes Java Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: kubernetes-java
